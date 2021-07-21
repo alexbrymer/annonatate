@@ -1,0 +1,30 @@
+---
+canvas: "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "this is a dog",
+            "purpose": "commenting",
+            "creator": {
+                "id": "alexbrymer",
+                "name": "Alex Humphreys"
+            },
+            "created": "2021-07-21T19:06:00.904Z",
+            "modified": "2021-07-21T19:06:02.161Z"
+        }
+    ],
+    "target": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:125.39478302001953,198.33596801757812,69.16065216064453,47.75593566894531"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/2328884a-5871-4ac7-ac8f-bdb7ddfbe573.json"
+}
