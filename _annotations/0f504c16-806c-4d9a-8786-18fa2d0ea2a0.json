@@ -1,0 +1,30 @@
+---
+canvas: "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "this a sun.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "alexbrymer",
+                "name": "Alex Humphreys"
+            },
+            "created": "2021-07-21T19:06:14.312Z",
+            "modified": "2021-07-21T19:06:21.312Z"
+        }
+    ],
+    "target": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:303.79266357421875,323.03936767578125,60.5810546875,47.624908447265625"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/0f504c16-806c-4d9a-8786-18fa2d0ea2a0.json"
+}
